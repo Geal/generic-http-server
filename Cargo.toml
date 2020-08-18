@@ -1,0 +1,10 @@
+[package]
+authors = ["Geoffroy Couprie <contact@geoffroycouprie.com>"]
+edition = "2018"
+name = "generic-http-server"
+version = "0.1.0"
+
+[dependencies]
+http = "0.2"
+httparse = "1.3"
+url = "2.1"
